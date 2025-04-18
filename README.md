@@ -74,3 +74,17 @@ Back on **Client-1**:
 
 - Logged in again as `<someuser>`
 - Accessed `\\dc-1\accounting` → Access granted and verified read/write capability
+
+---
+
+## Footnote: Skills and Experience Gained
+
+This lab offers practical experience with configuring and securing file shares in a Windows domain environment. Core skills developed include:
+
+- Creating and managing **Windows file shares** using both NTFS and share-level permissions  
+- Testing access control from a client perspective using domain user accounts  
+- Implementing **role-based access** with Active Directory security groups  
+- Troubleshooting common access issues related to permission misconfiguration  
+- Navigating shared resources using **UNC paths** (e.g., `\\hostname\sharename`)  
+
+These tasks simulate real-world responsibilities in enterprise IT environments and are vital for system administration, helpdesk support, and security operations.
