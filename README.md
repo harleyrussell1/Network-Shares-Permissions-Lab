@@ -4,6 +4,15 @@
 
 This lab demonstrates how to configure shared folders with various permission levels in a Windows Active Directory environment. Testing was done between a domain controller (DC-1) and a domain-joined client (Client-1) in Azure.
 
+## Technologies Used
+
+- Microsoft Azure (VM deployment)
+- Windows Server (Domain Controller)
+- Windows File Sharing (SMB)
+- NTFS & Share Permissions
+- Active Directory Security Groups
+- Network Pathing (\\hostname)
+
 ---
 
 ## 1. Shared Folder Creation and Permissions
