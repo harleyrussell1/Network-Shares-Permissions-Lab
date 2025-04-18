@@ -77,7 +77,7 @@ Back on **Client-1**:
 
 ---
 
-## Footnote: Skills and Experience Gained
+## Skills and Experience Gained
 
 This lab offers practical experience with configuring and securing file shares in a Windows domain environment. Core skills developed include:
 
