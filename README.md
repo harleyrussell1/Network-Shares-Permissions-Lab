@@ -88,3 +88,7 @@ This lab offers practical experience with configuring and securing file shares i
 - Navigating shared resources using **UNC paths** (e.g., `\\hostname\sharename`)  
 
 These tasks simulate real-world responsibilities in enterprise IT environments and are vital for system administration, helpdesk support, and security operations.
+
+## Screenshots
+
+All screenshots for this lab can be found in the [screenshots](./screenshots) folder.
